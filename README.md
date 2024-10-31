@@ -92,13 +92,9 @@ Most of them presents a normal distribution shape, with median flutuating from 2
 
 But some distortions to max values are presented by  **Systemic antibiotics simple** because the peak of registration in 2001.
 
-## Contribution Guidelines
-
-Contributions are welcome! Please refer to the [Contribution Guidelines] for information on how to contribute to this project.
-
 ## Acknowledgements
 
-[List any collaborators or individuals who contributed to the project.]
+ANVISA for the dataset.
 
 ## License
 
