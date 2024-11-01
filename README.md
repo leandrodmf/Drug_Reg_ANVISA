@@ -1,5 +1,5 @@
 # Drug_Reg_ANVISA
-**Project Status**: [Current status: In progress, completed, etc.]
+**Project Status**: [Current status: In progress]
 
 ## **ATTENTION**
 > Run the script in a **Python** environment, but use responsably. Mistakes can be commited.
